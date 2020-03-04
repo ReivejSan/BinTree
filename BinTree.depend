@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1577884624 source:d:\kuliah\strukdat\bintreetugas\bintree\main.c
+	"header.h"
+
+1577884849 d:\kuliah\strukdat\bintreetugas\bintree\header.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1577884849 source:d:\kuliah\strukdat\bintreetugas\bintree\tree.c
+	"header.h"
+
